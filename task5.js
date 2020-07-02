@@ -5,3 +5,4 @@ while(i<20){
     console.log(b.join(" "))
     i++
 }
+ 
