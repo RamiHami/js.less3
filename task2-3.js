@@ -3,7 +3,7 @@ var shop = [
         title:"Товар1",
         price:100,
         kol: 3
-    },
+    }, 
     {
         title:"Товар2",
         price:200,
